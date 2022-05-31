@@ -1,12 +1,12 @@
 # Main Titel
 ------------------
 ## Table of Contents
-1. [Große Headline](#Große_Headline)
+1. [Große Headline](#Untertitel_H2)
 2. [Struktur](#Zusammenfassung_Struktur)
 3. [Collaboration](#collaboration)
 4. [FAQs](#faqs)
 ----------------
-## Große Headline
+## Untertitel H2
 ### Headline H3
 #### Headline H4 
 ##### Headline H5

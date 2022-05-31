@@ -1,8 +1,8 @@
 # Main Titel
 ------------------
 ## Table of Contents
-1. [Große Headline](#Große Headline)
-2. [Struktur](#Zusammenfassung Struktur)
+1. [Große Headline](#Große_Headline)
+2. [Struktur](#Zusammenfassung_Struktur)
 3. [Collaboration](#collaboration)
 4. [FAQs](#faqs)
 ----------------

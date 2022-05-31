@@ -1,30 +1,28 @@
-# Verschiedenen Größe von Headline, Hier kommt Main Titel
-## Headline H2
+# Main Titel
+------------------
+## Table of Contents
+1. [Headline H2](#Headline H2)
+2. [Struktur](#Zusammenfassung Struktur)
+3. [Collaboration](#collaboration)
+4. [FAQs](#faqs)
+----------------
+## Verschiedenen Größe von Headline, Hier kommt Untertitel
 ### Headline H3
 #### Headline H4 
 ##### Headline H5
 ###### Headline H6
-
-
-## Zusammenfassung Dateien in Ordner beim Github
+------------------
+## Zusammenfassung Struktur
 ***
-Hier kommt Beschreibung von der Liste
+Hier kommt Beschreibung von der Liste Dateien in Ordner beim Github
 * [Datei name in Github](https://permalinkGithub.com): Kurze Beschreibung
 * [Datei name in Github](https://permalinkGithub.com): Kurze Beschreibung
--------------------------------------------------------------------------
-## Table of Contents
-1. [General Info](#general-info)
-2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
 
 ------------------------
-## Contributors
+## Collaboration
 
 - Manuela Munoz Bocanegra
 ---
-
-
+## FAQs
 
 

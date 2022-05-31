@@ -1,6 +1,6 @@
 # Main Titel
 ------------------
-## Table of Contents
+## Inhaltsverzeichnis Readme Datei
 1. [Headline H2](#Headline-H2)
 2. [Struktur](#Zusammenfassung-Struktur)
 3. [Collaboration](#collaboration)
@@ -14,7 +14,7 @@
 ------------------
 ## Zusammenfassung Struktur
 ***
-Hier kommt Beschreibung von der Liste Dateien in Ordner beim Github
+Inhaltsverzeichnis von Benchmarknummer Struktur
 * [Datei name in Github](https://permalinkGithub.com): Kurze Beschreibung
 * [Datei name in Github](https://permalinkGithub.com): Kurze Beschreibung
 

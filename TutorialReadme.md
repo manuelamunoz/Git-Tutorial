@@ -1,6 +1,4 @@
-# Main Titel
-
-# Verschiedenen Größe von Headline
+# Verschiedenen Größe von Headline, Hier kommt Main Titel
 ## Headline H2
 ### Headline H3
 #### Headline H4 
